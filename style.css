@@ -587,9 +587,16 @@ p {
   line-height: 1.25;
 }
 }
+@media only screen and (min-width: 380px) and (max-width: 405px){
+  .about1 {
+    margin-left: 2.625rem;
+  }
+}
 @media only screen and (min-width: 355px) and (max-width: 379px){
   .about1 {
+    width:
     margin-left: 1.75rem;
+
   }
 }
 @media only screen and (min-width: 335px) and (max-width: 354px){
@@ -608,4 +615,4 @@ p {
 BLUE MAIN: hsl(209, 81%, 18%)
 ORANGE MAIN:  hsl(24, 86%, 50%)
 YELLOW MAIN: hsl(54, 100%, 62%)
-GREEN MAIN: hsl(95, 60%, 65%)
+GREEN MAIN: hsl(95, 70%, 60%)
