@@ -318,7 +318,7 @@ p {
       background-color: hsl(95, 60%, 65%);
       border-radius: 4rem 4rem 0 0;
       font-family: righteous, monospace;
-      font-size: .75rem;
+      font-size: .625rem;
       text-align: center;
       align-self: end;
       z-index: 2;
