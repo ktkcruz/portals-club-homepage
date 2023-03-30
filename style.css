@@ -454,7 +454,7 @@ p {
   display: grid;
   grid-template-columns: 100%;
   grid-template-rows: repeat(2, 1fr);
-  max-height: 7rem;
+  max-height: 6.875rem;
  }
  .portals-header {
   grid-row: 1 / 2;
@@ -589,12 +589,11 @@ p {
 }
 @media only screen and (min-width: 380px) and (max-width: 405px){
   .about1 {
-    margin-left: 2.625rem;
+    margin-left: 2.125rem;
   }
 }
 @media only screen and (min-width: 355px) and (max-width: 379px){
   .about1 {
-    width:
     margin-left: 1.75rem;
 
   }
