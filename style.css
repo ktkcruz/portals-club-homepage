@@ -134,7 +134,9 @@ p {
 
     .portals-nav li {
         color: hsl(0, 0%, 0%);
+        font-family: righteous, monospace;
         font-size: 1.25rem;
+        text-transform: uppercase;
         text-decoration: 1px hsl(0, 0%, 0%) underline;
         margin: .3125rem;
         padding: .9rem;
